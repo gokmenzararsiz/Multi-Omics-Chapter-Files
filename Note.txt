@@ -1,0 +1,4 @@
+The codes used for concatenated methods are located in the folder named "Concatenated_based_codes".
+The codes used for model-based methods are located in the folder named "Model_based_codes".
+The codes used for transformation based methods are located in the folder named "Transformation_based_codes".
+The data sets we use are located in the "Datasets" folder.
